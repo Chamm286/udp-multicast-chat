@@ -213,10 +213,14 @@ netsh advfirewall firewall add rule name="UDP 7777" dir=in action=allow protocol
 
 ## 👥 TÁC GIẢ
 
-**Sinh viên thực hiện:** [Tên bạn]
-**MSSV:** [Mã số sinh viên]
-**Lớp:** [Lớp]
-**GVHD:** [Tên thầy]
+**Sinh viên thực hiện:**
+
+| STT | Họ và tên | MSSV | Lớp |
+|:---:|:---|---:|:---:|
+| 1 | **Nguyễn Thị Bích Trâm** | 24IT277 | 24SE1 |
+| 2 | **Trần Văn Tri** | 24IT283 | 24SE1 |
+
+**GVHD:** ThS. Nguyễn Thanh Cẩm
 **Môn:** Lập trình mạng — Đồ án / Bài tập lớn
 
 ---
