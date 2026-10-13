@@ -1,0 +1,32 @@
+# ═══════════ BUILD OUTPUT ═══════════
+bin/
+*.class
+out/
+build/
+target/
+
+# ═══════════ IDE ═══════════
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.settings/
+.project
+.classpath
+
+# ═══════════ LIBRARIES ═══════════
+lib/
+
+# ═══════════ OS ═══════════
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ═══════════ LOGS ═══════════
+*.log
+
+# ═══════════ TEMP ═══════════
+*.tmp
+*.bak
+~$*
